@@ -18,9 +18,14 @@ const $ = id => document.getElementById(id);
 const money = n => new Intl.NumberFormat("vi-VN").format(n) + "đ";
 
 function escapeHtml(v) {
-  return String(v).replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;" }[c]));
+  return String(v).replace(/[&<>"']/g, c => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#39;"
+  }[c]));
 }
-
 function budgetForPrice(price) {
   return BUDGET_META.find(x => price >= x[3] && price <= x[4]);
 }
@@ -34,6 +39,7 @@ function fillSelect(id, values, first) {
   const el = $(id);
   el.innerHTML = `<option value="">${first}</option>` + values.map(v => `<option value="${escapeHtml(v)}">${escapeHtml(v)}</option>`).join("");
 }
+
 function populateFilters() {
   const occasions = [...new Set(PRODUCTS.flatMap(p => p.occasions))];
   const recipients = uniqueNested("recipient");
@@ -41,18 +47,18 @@ function populateFilters() {
   const types = uniqueNested("type");
 
   fillSelect("recipientFilter", recipients, "Tất cả người nhận");
-  fillSelect("finderRecipient", recipients, "Tất cả");
   fillSelect("occasionFilter", occasions, "Tất cả dịp");
-  fillSelect("finderOccasion", occasions, "Tất cả dịp");
   fillSelect("colorFilter", colors, "Tất cả màu");
   fillSelect("typeFilter", types, "Tất cả kiểu");
 
-  ["budgetFilter","finderBudget"].forEach(id => {
-    const el = $(id);
-    el.innerHTML = `<option value="">Tất cả mức giá</option>` +
-      BUDGET_META.map(x => `<option value="${x[0]}">${x[1]}</option>`).join("");
-  });
+  const budgetEl = $("budgetFilter");
+  budgetEl.innerHTML =
+    `<option value="">Tất cả mức giá</option>` +
+    BUDGET_META.map(x =>
+      `<option value="${x[0]}">${x[1]}</option>`
+    ).join("");
 }
+    
 function matchesBudget(p, key) {
   if (!key) return true;
   return budgetForPrice(p.price)?.[0] === key;
@@ -84,22 +90,7 @@ function renderProducts(list, targetId = "productGrid") {
   $(targetId).innerHTML = list.map(productCard).join("");
   document.querySelectorAll(`#${targetId} .card-btn`).forEach(btn => btn.addEventListener("click", () => openModal(btn.dataset.product)));
 }
-function renderOccasions() {
-  $("occasionGrid").innerHTML = OCCASION_META.map(([name, icon]) => `
-    <button class="occasion-card" data-occasion="${escapeHtml(name)}"><span class="occasion-icon">${icon}</span><strong>${escapeHtml(name)}</strong></button>
-  `).join("");
-  document.querySelectorAll(".occasion-card").forEach(b => b.addEventListener("click", () => {
-    $("occasionFilter").value = b.dataset.occasion; applyFilters(); location.hash = "shop";
-  }));
-}
-function renderBudgets() {
-  $("budgetGrid").innerHTML = BUDGET_META.map(([key,title,sub]) => `
-    <button class="budget-card" data-budget="${key}"><strong>${title}</strong><span>${sub}</span></button>
-  `).join("");
-  document.querySelectorAll(".budget-card").forEach(b => b.addEventListener("click", () => {
-    $("budgetFilter").value = b.dataset.budget; applyFilters(); location.hash = "shop";
-  }));
-}
+
 function applyFilters() {
   const q = $("searchInput").value.trim().toLowerCase();
   const recipient = $("recipientFilter").value;
@@ -121,20 +112,22 @@ function applyFilters() {
   $("resultText").textContent = `Đang hiển thị ${list.length} mẫu hoa.`;
   $("emptyState").classList.toggle("hidden", list.length !== 0);
 }
+
 function resetFilters() {
-  ["searchInput","recipientFilter","occasionFilter","budgetFilter","colorFilter","typeFilter","finderRecipient","finderOccasion","finderBudget"].forEach(id => { if ($(id)) $(id).value = ""; });
+  [
+    "searchInput",
+    "recipientFilter",
+    "occasionFilter",
+    "budgetFilter",
+    "colorFilter",
+    "typeFilter"
+  ].forEach(id => {
+    if ($(id)) $(id).value = "";
+  });
+
   applyFilters();
 }
-function runFinder() {
-  $("recipientFilter").value = $("finderRecipient").value;
-  $("occasionFilter").value = $("finderOccasion").value;
-  $("budgetFilter").value = $("finderBudget").value;
-  $("colorFilter").value = "";
-  $("typeFilter").value = "";
-  $("searchInput").value = "";
-  applyFilters();
-  location.hash = "shop";
-}
+
 function orderText(p) {
   return `Em muốn đặt mẫu ${p.id} - ${p.name} - ${money(p.price)}.`;
 }
@@ -234,19 +227,41 @@ function setupFacebook() {
   ["facebookCard","facebookFooter"].forEach(id => { const el = $(id); el.href = FACEBOOK_URL; });
 }
 document.addEventListener("DOMContentLoaded", () => {
-  populateFilters(); renderOccasions(); renderBudgets();
-  renderProducts(PRODUCTS); renderProducts(PRODUCTS.filter(p => p.featured && p.available).slice(0,4), "featuredGrid");
-  $("findBtn").addEventListener("click", runFinder);
+  populateFilters();
+
+  renderProducts(PRODUCTS);
+
+  renderProducts(
+  PRODUCTS.filter(p => p.featured && p.available).slice(0, 4),
+  "featuredGrid"
+);
+
   $("resetBtn").addEventListener("click", resetFilters);
-  ["searchInput","recipientFilter","occasionFilter","budgetFilter","colorFilter","typeFilter"].forEach(id => {
-    $(id).addEventListener("input", applyFilters); $(id).addEventListener("change", applyFilters);
+
+  ["searchInput", "recipientFilter", "occasionFilter", "budgetFilter", "colorFilter", "typeFilter"].forEach(id => {
+    $(id).addEventListener("input", applyFilters);
+    $(id).addEventListener("change", applyFilters);
   });
-  document.querySelectorAll("[data-close]").forEach(el => el.addEventListener("click", closeModal));
-  document.addEventListener("keydown", e => { if (e.key === "Escape") closeModal(); });
+
+  document.querySelectorAll("[data-close]").forEach(el =>
+    el.addEventListener("click", closeModal)
+  );
+
+  document.addEventListener("keydown", e => {
+    if (e.key === "Escape") closeModal();
+  });
+
   $("year").textContent = new Date().getFullYear();
   $("copyCode").addEventListener("click", copyProductCode);
+
   setupShopInfo();
-  const toggle = document.querySelector(".menu-toggle"), nav = document.querySelector(".nav");
+
+  const toggle = document.querySelector(".menu-toggle");
+  const nav = document.querySelector(".nav");
+
   toggle.addEventListener("click", () => nav.classList.toggle("open"));
-  nav.querySelectorAll("a").forEach(a => a.addEventListener("click", () => nav.classList.remove("open")));
+
+  nav.querySelectorAll("a").forEach(a =>
+    a.addEventListener("click", () => nav.classList.remove("open"))
+  );
 });
