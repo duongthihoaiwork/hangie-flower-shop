@@ -407,17 +407,19 @@
   },
   {
     "id": "HG015",
-    "name": "Bó hoa ly mix 15",
-    "price": 500000,
+    "name": "Bó hoa ly mix tone hồng 4",
+    "price": 700000,
     "image": "assets/flowers/HG015.jpg",
     "type": "Bó hoa",
-    "size": "40-50",
+    "size": "40-42cm",
     "colors": [
       "Hồng"
     ],
     "flowers": [
       "Hoa ly",
-      "Loại khác"
+      "Hoa hồng",
+      "Sao xanh",
+      "Lam tinh"
     ],
     "occasions": [
       "20/10",
@@ -435,16 +437,17 @@
   },
   {
     "id": "HG016",
-    "name": "Giỏ hoa mix 2",
-    "price": 500000,
+    "name": "Bó hoa mix garden 1",
+    "price": 700000,
     "image": "assets/flowers/HG016.jpg",
-    "type": "Giỏ hoa",
-    "size": "40-50",
+    "type": "Bó hoa",
+    "size": "40-45cm",
     "colors": [
-      "Hồng"
+      "Mix"
     ],
     "flowers": [
       "Hoa ly",
+      "Hoa hồng",
       "Loại khác"
     ],
     "occasions": [
@@ -463,17 +466,20 @@
   },
   {
     "id": "HG017",
-    "name": "Bó hoa ly mix 17",
-    "price": 500000,
+    "name": "Giỏ hoa mix tone hồng ",
+    "price": 650000,
     "image": "assets/flowers/HG017.jpg",
-    "type": "Bó hoa",
-    "size": "40-50",
+    "type": "Giỏ hoa",
+    "size": "30-35cm",
     "colors": [
       "Hồng"
     ],
     "flowers": [
       "Hoa ly",
-      "Loại khác"
+      "Đồng tiền",
+      "Hoa hồng",
+      "Lam tinh",
+      "Hồng môn"
     ],
     "occasions": [
       "20/10",
@@ -491,17 +497,18 @@
   },
   {
     "id": "HG018",
-    "name": "Bó hoa ly mix 18",
-    "price": 500000,
+    "name": "Bó hoa ly mix tone đỏ 1",
+    "price": 700000,
     "image": "assets/flowers/HG018.jpg",
     "type": "Bó hoa",
-    "size": "40-50",
+    "size": "40-45cm",
     "colors": [
       "Đỏ"
     ],
     "flowers": [
       "Hoa ly",
-      "Loại khác"
+      "Hoa lan",
+      "Hoa hồng"
     ],
     "occasions": [
       "20/10",
@@ -519,17 +526,18 @@
   },
   {
     "id": "HG019",
-    "name": "Bó hoa ly mix 19",
+    "name": "Bó hoa ly mix tone đỏ 2",
     "price": 500000,
     "image": "assets/flowers/HG019.jpg",
     "type": "Bó hoa",
-    "size": "40-50",
+    "size": "35-40cm",
     "colors": [
       "Đỏ"
     ],
     "flowers": [
       "Hoa ly",
-      "Loại khác"
+      "Hoa hồng",
+      "Đồng tiền"
     ],
     "occasions": [
       "20/10",
@@ -547,17 +555,17 @@
   },
   {
     "id": "HG020",
-    "name": "Bó hoa ly mix 20",
-    "price": 500000,
+    "name": "Bó hoa ly mix tone xanh lá 1",
+    "price": 650000,
     "image": "assets/flowers/HG020.jpg",
     "type": "Bó hoa",
-    "size": "40-50",
+    "size": "40-45cm",
     "colors": [
       "Xanh lá"
     ],
     "flowers": [
       "Hoa ly",
-      "Loại khác"
+      "Hoa đồng tiền"
     ],
     "occasions": [
       "20/10",
@@ -575,17 +583,18 @@
   },
   {
     "id": "HG021",
-    "name": "Bó hoa ly mix 21",
-    "price": 500000,
+    "name": "Bó hoa ly mix tone đỏ 3",
+    "price": 600000,
     "image": "assets/flowers/HG021.jpg",
     "type": "Bó hoa",
-    "size": "40-50",
+    "size": "40-42cm",
     "colors": [
       "Đỏ"
     ],
     "flowers": [
       "Hoa ly",
-      "Loại khác"
+      "Đồng tiền",
+      "Hoa hồng"
     ],
     "occasions": [
       "20/10",
@@ -603,17 +612,17 @@
   },
   {
     "id": "HG022",
-    "name": "Bó hoa ly mix 22",
-    "price": 500000,
+    "name": "Bó hoa ly mix tone hồng 5. Gói ren",
+    "price": 700000,
     "image": "assets/flowers/HG022.jpg",
     "type": "Bó hoa",
-    "size": "40-50",
+    "size": "40-45cm",
     "colors": [
       "Hồng"
     ],
     "flowers": [
       "Hoa ly",
-      "Loại khác"
+      "Hoa hồng"
     ],
     "occasions": [
       "20/10",
@@ -631,8 +640,8 @@
   },
   {
     "id": "HG023",
-    "name": "Bó hoa ly mix 23",
-    "price": 500000,
+    "name": "Bó hoa ly mix tone hồng 6",
+    "price": 700000,
     "image": "assets/flowers/HG023.jpg",
     "type": "Bó hoa",
     "size": "40-50",
@@ -659,11 +668,11 @@
   },
   {
     "id": "HG024",
-    "name": "Bó hoa ly mix 24",
-    "price": 500000,
+    "name": "Bó hoa ly mix tone hồng 7",
+    "price": 700000,
     "image": "assets/flowers/HG024.jpg",
     "type": "Bó hoa",
-    "size": "40-50",
+    "size": "40-45cm",
     "colors": [
       "Hồng"
     ],
@@ -687,17 +696,18 @@
   },
   {
     "id": "HG025",
-    "name": "Bó hoa ly mix 25",
-    "price": 500000,
+    "name": "Bó hoa ly mix tone đỏ 4",
+    "price": 750000,
     "image": "assets/flowers/HG025.jpg",
     "type": "Bó hoa",
-    "size": "40-50",
+    "size": "40-45cm",
     "colors": [
       "Đỏ"
     ],
     "flowers": [
       "Hoa ly",
-      "Loại khác"
+      "Hoa hồng",
+      "Đồng tiền"
     ],
     "occasions": [
       "20/10",
@@ -715,18 +725,20 @@
   },
   {
     "id": "HG026",
-    "name": "Bó hoa ly mix 26",
-    "price": 500000,
+    "name": "Bó hoa ly mix tone trắng 1",
+    "price": 600000,
     "image": "assets/flowers/HG026.jpg",
     "type": "Bó hoa",
-    "size": "40-50",
+    "size": "40-45cm",
     "colors": [
       "Hồng",
       "Trắng"
     ],
     "flowers": [
       "Hoa ly",
-      "Loại khác"
+      "Hoa hồng",
+      "Cẩm chướng",
+      "Mõm sói"
     ],
     "occasions": [
       "20/10",
