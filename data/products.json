@@ -2,22 +2,22 @@
   {
     "id": "HG001",
     "name": "Bó hoa ly mix 1",
-    "price": 500000,
+    "price": 650000,
     "image": "assets/flowers/HG001.jpg",
-    "occasions": [
-      "20/10",
-      "Valentine",
-      "Kỷ niệm"
-    ],
+    "type": "Bó hoa",
+    "size": "40-42cm",
     "colors": [
       "Hồng",
       "Xanh"
     ],
-    "type": "Bó hoa",
-    "size": "40-50",
     "flowers": [
       "Hoa ly",
       "Loại khác"
+    ],
+    "occasions": [
+      "20/10",
+      "Valentine",
+      "Kỷ niệm"
     ],
     "recipient": [
       "Mẹ",
@@ -25,28 +25,29 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG002",
-    "name": "Bó hoa ly mix 2",
-    "price": 500000,
+    "name": "Bó hoa ly mix lan hồ điệp 2",
+    "price": 699990,
     "image": "assets/flowers/HG002.jpg",
-    "occasions": [
-      "20/10",
-      "Valentine",
-      "Kỷ niệm"
-    ],
+    "type": "Bó hoa",
+    "size": "40-42cm",
     "colors": [
       "Hồng",
       "Đỏ"
     ],
-    "type": "Bó hoa",
-    "size": "40-50",
     "flowers": [
       "Hoa ly",
-      "Loại khác"
+      "Hoa lan",
+      "Cỏ nến"
+    ],
+    "occasions": [
+      "20/10",
+      "Valentine",
+      "Kỷ niệm"
     ],
     "recipient": [
       "Mẹ",
@@ -54,27 +55,28 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG003",
-    "name": "Bó hoa ly mix 3",
-    "price": 500000,
+    "name": "Bó hoa ly mix tone hồng 3. Gói ren",
+    "price": 650000,
     "image": "assets/flowers/HG003.jpg",
-    "occasions": [
-      "20/10",
-      "Valentine",
-      "Kỷ niệm"
-    ],
+    "type": "Bó hoa",
+    "size": "40-45cm",
     "colors": [
       "Hồng"
     ],
-    "type": "Bó hoa",
-    "size": "40-50",
     "flowers": [
       "Hoa ly",
-      "Loại khác"
+      "Đồng tiền",
+      "Hoa hồng"
+    ],
+    "occasions": [
+      "20/10",
+      "Valentine",
+      "Kỷ niệm"
     ],
     "recipient": [
       "Mẹ",
@@ -82,27 +84,28 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG004",
-    "name": "Bó hoa ly mix 4",
-    "price": 500000,
+    "name": "Bó tú kiều mix cỏ nến",
+    "price": 650000,
     "image": "assets/flowers/HG004.jpg",
+    "type": "Bó hoa",
+    "size": "40-45cm",
+    "colors": [
+      "Tím",
+      "Xanh"
+    ],
+    "flowers": [
+      "Tú kiều",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Tím xanh"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -110,27 +113,29 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG005",
-    "name": "Bó hoa ly mix 5",
-    "price": 500000,
+    "name": "Bó hoa ly mix hồng môn, lan đỏ",
+    "price": 600000,
     "image": "assets/flowers/HG005.jpg",
+    "type": "Bó hoa",
+    "size": "40-45cm",
+    "colors": [
+      "Đỏ",
+      "Trắng"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Hồng môn",
+      "Lan đỏ"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Đỏ trắng"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -138,27 +143,28 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG006",
-    "name": "Bó hoa ly mix 6",
-    "price": 500000,
+    "name": "Bó hoa ly mix hồ điệp",
+    "price": 750000,
     "image": "assets/flowers/HG006.jpg",
+    "type": "Bó hoa",
+    "size": "40-45",
+    "colors": [
+      "Đỏ"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Hồ điệp",
+      "Lan đỏ"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Đỏ"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -166,27 +172,27 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG007",
     "name": "Bó hoa ly mix 7",
     "price": 500000,
     "image": "assets/flowers/HG007.jpg",
+    "type": "Bó hoa",
+    "size": "40-50",
+    "colors": [
+      "Đỏ"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Đỏ"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -194,27 +200,27 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG008",
     "name": "Bó hoa ly mix 8",
     "price": 500000,
     "image": "assets/flowers/HG008.jpg",
+    "type": "Bó hoa",
+    "size": "40-50",
+    "colors": [
+      "Đỏ"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Đỏ"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -222,27 +228,27 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG009",
     "name": "Bó hoa ly mix 9",
     "price": 500000,
     "image": "assets/flowers/HG009.jpg",
+    "type": "Bó hoa",
+    "size": "40-50",
+    "colors": [
+      "Hồng"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Hồng"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -250,27 +256,27 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG010",
     "name": "Bó hoa ly mix 10",
     "price": 500000,
     "image": "assets/flowers/HG010.jpg",
+    "type": "Bó hoa",
+    "size": "40-50",
+    "colors": [
+      "Hồng"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Hồng"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -278,27 +284,27 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG011",
     "name": "Bó hoa ly mix 11",
     "price": 500000,
     "image": "assets/flowers/HG011.jpg",
+    "type": "Bó hoa",
+    "size": "40-50",
+    "colors": [
+      "Hồng"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Hồng"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -306,27 +312,27 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG012",
     "name": "Bó hoa ly mix 12",
     "price": 500000,
     "image": "assets/flowers/HG012.jpg",
+    "type": "Bó hoa",
+    "size": "40-50",
+    "colors": [
+      "Hồng"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Hồng"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -334,27 +340,27 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG013",
     "name": "Bó hoa ly mix 13",
     "price": 500000,
     "image": "assets/flowers/HG013.jpg",
+    "type": "Bó hoa",
+    "size": "40-50",
+    "colors": [
+      "Đỏ"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Đỏ"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -362,27 +368,27 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG014",
     "name": "Giỏ hoa mix 1",
     "price": 500000,
     "image": "assets/flowers/HG014.jpg",
+    "type": "Giỏ hoa",
+    "size": "40-50",
+    "colors": [
+      "Hồng"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Hồng"
-    ],
-    "type": "Giỏ hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -390,27 +396,27 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một thiết kế hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG015",
     "name": "Bó hoa ly mix 15",
     "price": 500000,
     "image": "assets/flowers/HG015.jpg",
+    "type": "Bó hoa",
+    "size": "40-50",
+    "colors": [
+      "Hồng"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Hồng"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -418,27 +424,27 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG016",
     "name": "Giỏ hoa mix 2",
     "price": 500000,
     "image": "assets/flowers/HG016.jpg",
+    "type": "Giỏ hoa",
+    "size": "40-50",
+    "colors": [
+      "Hồng"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Hồng"
-    ],
-    "type": "Giỏ hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -446,27 +452,27 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một thiết kế hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG017",
     "name": "Bó hoa ly mix 17",
     "price": 500000,
     "image": "assets/flowers/HG017.jpg",
+    "type": "Bó hoa",
+    "size": "40-50",
+    "colors": [
+      "Hồng"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Hồng"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -474,27 +480,27 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG018",
     "name": "Bó hoa ly mix 18",
     "price": 500000,
     "image": "assets/flowers/HG018.jpg",
+    "type": "Bó hoa",
+    "size": "40-50",
+    "colors": [
+      "Đỏ"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Đỏ"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -502,27 +508,27 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG019",
     "name": "Bó hoa ly mix 19",
     "price": 500000,
     "image": "assets/flowers/HG019.jpg",
+    "type": "Bó hoa",
+    "size": "40-50",
+    "colors": [
+      "Đỏ"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Đỏ"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -530,27 +536,27 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG020",
     "name": "Bó hoa ly mix 20",
     "price": 500000,
     "image": "assets/flowers/HG020.jpg",
+    "type": "Bó hoa",
+    "size": "40-50",
+    "colors": [
+      "Xanh lá"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Xanh lá"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -558,27 +564,27 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG021",
     "name": "Bó hoa ly mix 21",
     "price": 500000,
     "image": "assets/flowers/HG021.jpg",
+    "type": "Bó hoa",
+    "size": "40-50",
+    "colors": [
+      "Đỏ"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Đỏ"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -586,27 +592,27 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG022",
     "name": "Bó hoa ly mix 22",
     "price": 500000,
     "image": "assets/flowers/HG022.jpg",
+    "type": "Bó hoa",
+    "size": "40-50",
+    "colors": [
+      "Hồng"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Hồng"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -614,27 +620,27 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG023",
     "name": "Bó hoa ly mix 23",
     "price": 500000,
     "image": "assets/flowers/HG023.jpg",
+    "type": "Bó hoa",
+    "size": "40-50",
+    "colors": [
+      "Hồng"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Hồng"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -642,27 +648,27 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG024",
     "name": "Bó hoa ly mix 24",
     "price": 500000,
     "image": "assets/flowers/HG024.jpg",
+    "type": "Bó hoa",
+    "size": "40-50",
+    "colors": [
+      "Hồng"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Hồng"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -670,27 +676,27 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG025",
     "name": "Bó hoa ly mix 25",
     "price": 500000,
     "image": "assets/flowers/HG025.jpg",
+    "type": "Bó hoa",
+    "size": "40-50",
+    "colors": [
+      "Đỏ"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
     "occasions": [
       "20/10",
       "Valentine",
       "Kỷ niệm"
-    ],
-    "colors": [
-      "Đỏ"
-    ],
-    "type": "Bó hoa",
-    "size": "40-50",
-    "flowers": [
-      "Hoa ly",
-      "Loại khác"
     ],
     "recipient": [
       "Mẹ",
@@ -698,28 +704,28 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   },
   {
     "id": "HG026",
     "name": "Bó hoa ly mix 26",
     "price": 500000,
     "image": "assets/flowers/HG026.jpg",
-    "occasions": [
-      "20/10",
-      "Valentine",
-      "Kỷ niệm"
-    ],
+    "type": "Bó hoa",
+    "size": "40-50",
     "colors": [
       "Hồng",
       "Trắng"
     ],
-    "type": "Bó hoa",
-    "size": "40-50",
     "flowers": [
       "Hoa ly",
       "Loại khác"
+    ],
+    "occasions": [
+      "20/10",
+      "Valentine",
+      "Kỷ niệm"
     ],
     "recipient": [
       "Mẹ",
@@ -727,7 +733,7 @@
       "Bạn bè"
     ],
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
-    "featured": true,
-    "available": true
+    "available": true,
+    "featured": true
   }
 ]
