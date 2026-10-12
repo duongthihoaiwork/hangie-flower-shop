@@ -1,0 +1,107 @@
+media:
+  input: assets/flowers
+  output: assets/flowers
+  rename: false
+  extensions:
+    - jpg
+    - jpeg
+    - png
+    - webp
+
+content:
+  - name: products
+    label: 🌸 Sản phẩm Hangie
+    type: file
+    path: data/products.json
+    format: json
+    list: true
+
+    fields:
+      - name: id
+        label: Mã sản phẩm
+        type: string
+        required: true
+
+      - name: name
+        label: Tên sản phẩm
+        type: string
+        required: true
+
+      - name: price
+        label: Giá
+        type: number
+        required: true
+
+      - name: image
+        label: Ảnh sản phẩm
+        type: image
+        required: true
+
+      - name: type
+        label: Kiểu hoa
+        type: select
+        required: true
+        options:
+          values:
+            - Bó hoa
+            - Giỏ hoa
+            - Hộp hoa
+            - Kệ hoa
+
+      - name: size
+        label: Kích thước
+        type: string
+
+      - name: colors
+        label: Màu sắc
+        type: string
+        list: true
+
+      - name: flowers
+        label: Hoa chính
+        type: string
+        list: true
+
+      - name: occasions
+        label: Dịp
+        type: select
+        list: true
+        options:
+          values:
+            - Sinh nhật
+            - Tốt nghiệp
+            - Tỏ tình
+            - Kỷ niệm
+            - Chúc mừng
+            - Tặng mẹ
+            - 8/3
+            - 20/10
+            - 20/11
+            - Valentine
+            - Khai trương
+
+      - name: recipient
+        label: Người nhận
+        type: select
+        list: true
+        options:
+          values:
+            - Người yêu
+            - Bạn bè
+            - Mẹ
+            - Gia đình
+            - Người thân
+
+      - name: description
+        label: Mô tả
+        type: text
+
+      - name: available
+        label: Đang nhận đơn
+        type: boolean
+        default: true
+
+      - name: featured
+        label: Hangie Favorites
+        type: boolean
+        default: false
