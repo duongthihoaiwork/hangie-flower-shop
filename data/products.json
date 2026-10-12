@@ -205,17 +205,19 @@
   },
   {
     "id": "HG008",
-    "name": "Bó hoa ly mix 8",
-    "price": 500000,
+    "name": "Bó hoa ly mix mao lương đỏ",
+    "price": 650000,
     "image": "assets/flowers/HG008.jpg",
     "type": "Bó hoa",
-    "size": "40-50",
+    "size": "42-45",
     "colors": [
-      "Đỏ"
+      "Đỏ xanh dương"
     ],
     "flowers": [
       "Hoa ly",
-      "Loại khác"
+      "hồ điệp",
+      "Mao lương",
+      "violet"
     ],
     "occasions": [
       "20/10",
@@ -233,17 +235,19 @@
   },
   {
     "id": "HG009",
-    "name": "Bó hoa ly mix 9",
-    "price": 500000,
+    "name": "Bó hoa ly mix tone hồng 2. Gói ren",
+    "price": 649989,
     "image": "assets/flowers/HG009.jpg",
     "type": "Bó hoa",
-    "size": "40-50",
+    "size": "40-45cm",
     "colors": [
       "Hồng"
     ],
     "flowers": [
       "Hoa ly",
-      "Loại khác"
+      "Đồng tiền",
+      "Hoa hồng",
+      "Cẩm chướng"
     ],
     "occasions": [
       "20/10",
@@ -261,17 +265,17 @@
   },
   {
     "id": "HG010",
-    "name": "Bó hoa ly mix 10",
-    "price": 500000,
+    "name": "Bó hoa ly mix tone hồng 3",
+    "price": 600000,
     "image": "assets/flowers/HG010.jpg",
     "type": "Bó hoa",
-    "size": "40-50",
+    "size": "40-42cm",
     "colors": [
       "Hồng"
     ],
     "flowers": [
       "Hoa ly",
-      "Loại khác"
+      "Hoa hồng chùm"
     ],
     "occasions": [
       "20/10",
@@ -289,17 +293,17 @@
   },
   {
     "id": "HG011",
-    "name": "Bó hoa ly mix 11",
-    "price": 500000,
+    "name": "Bó hoa ly mix tone hồng 3. Gói ren",
+    "price": 650000,
     "image": "assets/flowers/HG011.jpg",
     "type": "Bó hoa",
-    "size": "40-50",
+    "size": "40-45 cm",
     "colors": [
       "Hồng"
     ],
     "flowers": [
-      "Hoa ly",
-      "Loại khác"
+      "Ly kép",
+      "Hoa hồng"
     ],
     "occasions": [
       "20/10",
@@ -317,17 +321,19 @@
   },
   {
     "id": "HG012",
-    "name": "Bó hoa ly mix 12",
-    "price": 500000,
+    "name": "Bó hoa ly ",
+    "price": 700000,
     "image": "assets/flowers/HG012.jpg",
     "type": "Bó hoa",
-    "size": "40-50",
+    "size": "40-45cm",
     "colors": [
-      "Hồng"
+      "Hồng",
+      "Trắng"
     ],
     "flowers": [
       "Hoa ly",
-      "Loại khác"
+      "Dồng tiền",
+      "Dephin"
     ],
     "occasions": [
       "20/10",
@@ -345,11 +351,11 @@
   },
   {
     "id": "HG013",
-    "name": "Bó hoa ly mix 13",
-    "price": 500000,
+    "name": "Bó hồng chùm Red Lance",
+    "price": 750000,
     "image": "assets/flowers/HG013.jpg",
     "type": "Bó hoa",
-    "size": "40-50",
+    "size": "40-42cm",
     "colors": [
       "Đỏ"
     ],
