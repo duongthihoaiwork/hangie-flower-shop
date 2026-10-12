@@ -131,7 +131,9 @@ function resetFilters() {
 }
 
 function orderText(p) {
-  return `Em muốn đặt mẫu ${p.id} - ${p.name} - ${money(p.price)}.`;
+  return `Em muốn đặt mẫu ${p.id} - ${p.name} - ${money(p.price)}.
+Địa chỉ: 
+Số điện thoại: `;
 }
 
 async function openZaloOrder(p) {
