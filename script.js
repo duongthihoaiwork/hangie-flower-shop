@@ -14,6 +14,8 @@ const BUDGET_META = [
   ["over-1m","Trên 1TR","Cao cấp · theo yêu cầu",1000001,Infinity]
 ];
 
+let PRODUCTS = [];
+
 const $ = id => document.getElementById(id);
 const money = n => new Intl.NumberFormat("vi-VN").format(n) + "đ";
 
@@ -226,21 +228,86 @@ function setupFacebook() {
   if (!FACEBOOK_URL) return;
   ["facebookCard","facebookFooter"].forEach(id => { const el = $(id); el.href = FACEBOOK_URL; });
 }
-document.addEventListener("DOMContentLoaded", () => {
-  populateFilters();
+document.addEventListener("DOMContentLoaded", async () => {
+  // Thiết lập thông tin shop trước, không phụ thuộc dữ liệu sản phẩm.
+  setupShopInfo();
 
-  renderProducts(PRODUCTS);
+  // Hiển thị trạng thái tải dữ liệu.
+  if ($("resultText")) {
+    $("resultText").textContent = "Đang tải danh sách mẫu hoa...";
+  }
 
-  renderProducts(
-  PRODUCTS.filter(p => p.featured && p.available).slice(0, 4),
-  "featuredGrid"
-);
+  try {
+    const response = await fetch("data/products.json", { cache: "no-store" });
 
-  $("resetBtn").addEventListener("click", resetFilters);
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status} - không tải được data/products.json`);
+    }
 
-  ["searchInput", "recipientFilter", "occasionFilter", "budgetFilter", "colorFilter", "typeFilter"].forEach(id => {
-    $(id).addEventListener("input", applyFilters);
-    $(id).addEventListener("change", applyFilters);
+    const data = await response.json();
+
+    if (!Array.isArray(data)) {
+      throw new Error("products.json phải chứa một mảng sản phẩm.");
+    }
+
+    PRODUCTS = data;
+
+    populateFilters();
+    renderProducts(PRODUCTS);
+
+    renderProducts(
+      PRODUCTS.filter(p => p.featured && p.available).slice(0, 4),
+      "featuredGrid"
+    );
+
+    if ($("resultText")) {
+      $("resultText").textContent = `Đang hiển thị ${PRODUCTS.length} mẫu hoa.`;
+    }
+
+    if ($("emptyState")) {
+      $("emptyState").classList.toggle("hidden", PRODUCTS.length !== 0);
+    }
+
+    console.log(`Hangie: đã tải ${PRODUCTS.length} sản phẩm từ data/products.json`);
+  } catch (error) {
+    console.error("Hangie: lỗi tải sản phẩm:", error);
+
+    if ($("productGrid")) {
+      $("productGrid").innerHTML = "";
+    }
+
+    if ($("featuredGrid")) {
+      $("featuredGrid").innerHTML = "";
+    }
+
+    if ($("resultText")) {
+      $("resultText").textContent =
+        "Không tải được danh sách sản phẩm. Hãy kiểm tra file data/products.json.";
+    }
+
+    if ($("emptyState")) {
+      $("emptyState").classList.remove("hidden");
+      const title = $("emptyState").querySelector("h3");
+      const desc = $("emptyState").querySelector("p");
+      if (title) title.textContent = "Không tải được sản phẩm";
+      if (desc) desc.textContent = "Kiểm tra data/products.json rồi tải lại trang.";
+    }
+  }
+
+  $("resetBtn")?.addEventListener("click", resetFilters);
+
+  [
+    "searchInput",
+    "recipientFilter",
+    "occasionFilter",
+    "budgetFilter",
+    "colorFilter",
+    "typeFilter"
+  ].forEach(id => {
+    const el = $(id);
+    if (!el) return;
+    el.addEventListener("input", applyFilters);
+    el.addEventListener("change", applyFilters);
   });
 
   document.querySelectorAll("[data-close]").forEach(el =>
@@ -251,17 +318,20 @@ document.addEventListener("DOMContentLoaded", () => {
     if (e.key === "Escape") closeModal();
   });
 
-  $("year").textContent = new Date().getFullYear();
-  $("copyCode").addEventListener("click", copyProductCode);
+  if ($("year")) {
+    $("year").textContent = new Date().getFullYear();
+  }
 
-  setupShopInfo();
+  $("copyCode")?.addEventListener("click", copyProductCode);
 
   const toggle = document.querySelector(".menu-toggle");
   const nav = document.querySelector(".nav");
 
-  toggle.addEventListener("click", () => nav.classList.toggle("open"));
+  if (toggle && nav) {
+    toggle.addEventListener("click", () => nav.classList.toggle("open"));
 
-  nav.querySelectorAll("a").forEach(a =>
-    a.addEventListener("click", () => nav.classList.remove("open"))
-  );
+    nav.querySelectorAll("a").forEach(a =>
+      a.addEventListener("click", () => nav.classList.remove("open"))
+    );
+  }
 });
