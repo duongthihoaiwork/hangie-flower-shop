@@ -858,5 +858,42 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG030",
+    "name": "Bó hoa thiết kế 2",
+    "price": 800000,
+    "image": "assets/flowers/HG030.jpg",
+    "type": "Bó hoa",
+    "size": "42-45",
+    "colors": [
+      "Màu hồng",
+      "Màu tím"
+    ],
+    "flowers": [
+      "Hoa cúc mẫu đơn",
+      "Hoa hồng",
+      "Hoa đồng tiền"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/11",
+      "20/10"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
