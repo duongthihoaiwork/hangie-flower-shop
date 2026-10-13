@@ -753,5 +753,39 @@
     "description": "Sự kết hợp ngẫu hứng giữa những bông hoa ly thanh lịch cùng các loại hoa xinh xắn tạo nên một bó hoa vừa ngọt ngào, vừa nổi bật, lại cực kỳ đáng yêu.",
     "available": true,
     "featured": true
+  },
+  {
+    "id": "HG027",
+    "name": "Bó ly mix tone hồng 10.gói ren",
+    "price": 900000,
+    "image": "assets/flowers/HG027.jpg",
+    "type": "Bó hoa",
+    "size": "50-55cm",
+    "colors": [
+      "hồng"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Hoa hồng chùm",
+      "Lam tinh",
+      "loại khác"
+    ],
+    "occasions": [
+      "8/3",
+      "20/10",
+      "Tặng mẹ",
+      "Tốt nghiệp",
+      "Sinh nhật",
+      "Chúc mừng",
+      "Kỷ niệm"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
