@@ -895,5 +895,120 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG031",
+    "name": "Hồng chùm sophia",
+    "price": 649986,
+    "image": "assets/flowers/HG031.jpg",
+    "type": "Bó hoa",
+    "size": "40-42cm",
+    "colors": [
+      "Hồng"
+    ],
+    "flowers": [
+      "Hoa hồng chùm",
+      "Hoa phăng ",
+      "Hoa sao xanh",
+      "Hoa cúc gỗ"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG032",
+    "name": "Bó hoa tone trắng ",
+    "price": 650000,
+    "image": "assets/flowers/HG032.jpg",
+    "type": "Bó hoa",
+    "size": "40-45cm",
+    "colors": [
+      "Trắng",
+      "Xanh lá"
+    ],
+    "flowers": [
+      "Hoa chuông",
+      "Hoa hồng",
+      "Hoa phi yến"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG033",
+    "name": "Bó hoa mix tone hồng 1",
+    "price": 550000,
+    "image": "assets/flowers/HG033.jpg",
+    "type": "Bó hoa",
+    "size": "40-42cm",
+    "colors": [
+      "Màu hồng"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Hoa Hồng",
+      "Hồng chùm",
+      "Đồng tiền"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
