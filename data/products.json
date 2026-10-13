@@ -787,5 +787,39 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG028",
+    "name": "Bó hoa garden 2",
+    "price": 900000,
+    "image": "assets/flowers/HG028.jpg",
+    "type": "Bó hoa",
+    "size": "50-55 cm",
+    "colors": [
+      "đa sắc"
+    ],
+    "flowers": [
+      "hoa hồng",
+      "lam tinh",
+      "tú cầu"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "20/10",
+      "8/3"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Người thân",
+      "Mẹ",
+      "Gia đình"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
