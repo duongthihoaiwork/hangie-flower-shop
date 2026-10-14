@@ -973,7 +973,7 @@
     "featured": false
   },
   {
-    "id": "HG034",
+    "id": "HG033",
     "name": "Hoa ly mix tone đỏ hồng",
     "price": 550000,
     "image": "assets/flowers/HG034.jpg",
@@ -1003,7 +1003,7 @@
     "featured": false
   },
   {
-    "id": "HG035",
+    "id": "HG034",
     "name": "Bó hoa ly mix bội bội",
     "price": 450000,
     "image": "assets/flowers/HG035.jpg",
@@ -1033,7 +1033,7 @@
     "featured": false
   },
   {
-    "id": "HG036",
+    "id": "HG035",
     "name": "Bó hoa Garden ",
     "price": 600000,
     "image": "assets/flowers/HG036.jpg",
@@ -1063,7 +1063,7 @@
     "featured": false
   },
   {
-    "id": "HG037",
+    "id": "HG036",
     "name": "Bó hoa garden. Vải ren",
     "price": 650000,
     "image": "assets/flowers/HG037.jpg",
@@ -1096,10 +1096,10 @@
     "featured": false
   },
   {
-    "id": "HG038",
+    "id": "HG037",
     "name": "Bó hoa garden, mix nhiều loại",
     "price": 800000,
-    "image": "assets/flowers/HG038.jpg",
+    "image": "assets/flowers/HG037-1.jpg",
     "type": "Bó hoa",
     "size": "55-60cm",
     "colors": [
@@ -1126,7 +1126,7 @@
     "featured": false
   },
   {
-    "id": "HG039",
+    "id": "HG038",
     "name": "Hoa ly mix tone đỏ",
     "price": 1100000,
     "image": "assets/flowers/HG039.jpg",
@@ -1159,7 +1159,7 @@
     "featured": false
   },
   {
-    "id": "HG040",
+    "id": "HG039",
     "name": "Bó hoa mix garden. Gói giấy ren",
     "price": 500000,
     "image": "assets/flowers/HG040.jpg",
