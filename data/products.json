@@ -973,45 +973,6 @@
     "featured": false
   },
   {
-    "id": "HG033",
-    "name": "Bó hoa mix tone hồng 1",
-    "price": 550000,
-    "image": "assets/flowers/HG033.jpg",
-    "type": "Bó hoa",
-    "size": "40-42cm",
-    "colors": [
-      "Màu hồng"
-    ],
-    "flowers": [
-      "Hoa ly",
-      "Hoa Hồng",
-      "Hồng chùm",
-      "Đồng tiền"
-    ],
-    "occasions": [
-      "Sinh nhật",
-      "Tốt nghiệp",
-      "Tỏ tình",
-      "Kỷ niệm",
-      "Chúc mừng",
-      "Tặng mẹ",
-      "8/3",
-      "20/10",
-      "20/11",
-      "Valentine",
-      "Khai trương"
-    ],
-    "recipient": [
-      "Người yêu",
-      "Bạn bè",
-      "Mẹ",
-      "Gia đình",
-      "Người thân"
-    ],
-    "available": true,
-    "featured": false
-  },
-  {
     "id": "HG034",
     "name": "Hoa ly mix tone đỏ hồng",
     "price": 550000,
@@ -1227,6 +1188,44 @@
       "Mẹ"
     ],
     "description": "Dịp 20/10 này, dù là tặng Mẹ để nói lời cảm ơn hay tặng người yêu để gửi chút yêu thương, thì một bó hoa xinh luôn là cách thể hiện tình cảm thật dễ thương. ",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG040",
+    "name": "Bó hoa garden 5 ",
+    "price": 600000,
+    "image": "assets/flowers/HG041.jpg",
+    "type": "Bó hoa",
+    "size": "40-42cm",
+    "colors": [
+      "Đa sắc"
+    ],
+    "flowers": [
+      "Hướng dương",
+      "Đồng tiền",
+      "Nhiều loại khác"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
     "available": true,
     "featured": false
   }
