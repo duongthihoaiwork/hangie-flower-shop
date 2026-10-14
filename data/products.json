@@ -895,5 +895,34 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG031",
+    "name": "Bó hoa Sophia",
+    "price": 650000,
+    "image": "assets/flowers/HG031.jpg",
+    "type": "Bó hoa",
+    "size": "40-42cm",
+    "colors": [
+      "Hồng"
+    ],
+    "flowers": [
+      "Hoa hồng Sophia"
+    ],
+    "occasions": [
+      "20/10",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Sinh nhật",
+      "Tốt nghiệp"
+    ],
+    "recipient": [
+      "Mẹ",
+      "Người yêu",
+      "Bạn bè"
+    ],
+    "description": "Khi mua hoa, bạn sẽ được tặng kèm MIỄN PHÍ:\n💌 Thiệp viết tay – Gửi gắm những lời chúc ngọt ngào, chân thành.\n🛍️ Túi giấy xách hoa – Xinh xắn, tinh tế, tiện lợi khi mang tặng.",
+    "available": true,
+    "featured": false
   }
 ]
