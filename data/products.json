@@ -1447,5 +1447,44 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG046",
+    "name": "Bó ly kép tone đỏ mix cam",
+    "price": 500000,
+    "image": "assets/flowers/HG046.jpg",
+    "type": "Bó hoa",
+    "size": "38-42cm",
+    "colors": [
+      "đỏ",
+      "cam"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Hoa hồng",
+      "Hoa đồng tiền"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
