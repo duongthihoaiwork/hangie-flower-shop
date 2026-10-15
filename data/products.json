@@ -1109,5 +1109,45 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG037",
+    "name": "Hộp hoa thiết kế tone tím",
+    "price": 1500000,
+    "image": "assets/flowers/HG037.jpg",
+    "type": "Hộp hoa",
+    "size": "45-50cm ",
+    "colors": [
+      "Tím"
+    ],
+    "flowers": [
+      "Tú cầu",
+      "Cúc mẫu đơn",
+      "Hoa ly",
+      "Dephin",
+      "Hồng môn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
