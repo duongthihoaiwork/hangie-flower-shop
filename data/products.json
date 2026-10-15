@@ -1780,5 +1780,42 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG055",
+    "name": "Bó hoa tone hồng 14",
+    "price": 500000,
+    "image": "assets/flowers/HG055.jpg",
+    "type": "Bó hoa",
+    "size": "35-40cm",
+    "colors": [
+      "màu hồng"
+    ],
+    "flowers": [
+      "hoa ly",
+      "hoa hồng"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
