@@ -1039,5 +1039,38 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG035",
+    "name": "Bó hoa garden",
+    "price": 650000,
+    "image": "assets/flowers/HG035.jpg",
+    "type": "Bó hoa",
+    "size": "40-45cm",
+    "colors": [
+      "Đa sắc"
+    ],
+    "flowers": [
+      "Mix hỗ hơp"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
