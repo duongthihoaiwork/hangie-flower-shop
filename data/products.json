@@ -1928,5 +1928,43 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG059",
+    "name": "Bó hoa mix garden",
+    "price": 750000,
+    "image": "assets/flowers/HG059.jpg",
+    "type": "Bó hoa",
+    "size": "45-50cm",
+    "colors": [
+      "Màu hồng",
+      "Màu vàng",
+      "Nhiều màu khác"
+    ],
+    "flowers": [
+      "mix nhiều màu"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "20/10",
+      "8/3",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
