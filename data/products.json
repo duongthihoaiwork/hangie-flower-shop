@@ -1742,5 +1742,43 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG054",
+    "name": "Bó hoa ly mix tone hồng 14",
+    "price": 900000,
+    "image": "assets/flowers/HG054.jpg",
+    "type": "Bó hoa",
+    "size": "50-55cm",
+    "colors": [
+      "màu trắng",
+      "màu hồng"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "các loại hoa khác"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
