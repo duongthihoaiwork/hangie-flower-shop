@@ -924,5 +924,43 @@
     "description": "Khi mua hoa, bạn sẽ được tặng kèm MIỄN PHÍ:\n💌 Thiệp viết tay – Gửi gắm những lời chúc ngọt ngào, chân thành.\n🛍️ Túi giấy xách hoa – Xinh xắn, tinh tế, tiện lợi khi mang tặng.",
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG031",
+    "name": "Bó hoa tone trắng ",
+    "price": 650000,
+    "image": "assets/flowers/HG032.jpg",
+    "type": "Bó hoa",
+    "size": "40-45cm",
+    "colors": [
+      "Trắng",
+      "Xanh lá"
+    ],
+    "flowers": [
+      "Hoa hồng",
+      "Hoa chuông",
+      "Hoa phi yến"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
