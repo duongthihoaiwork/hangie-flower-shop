@@ -1966,5 +1966,43 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG060",
+    "name": "bó hoa mix garden tone hồng 15 vải ren",
+    "price": 900000,
+    "image": "assets/flowers/HG060.jpg",
+    "type": "Bó hoa",
+    "size": "50-52cm",
+    "colors": [
+      "màu hồng"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Hoa hồng",
+      "Mix đủ loại"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
