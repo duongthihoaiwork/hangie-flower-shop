@@ -1670,5 +1670,41 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG052",
+    "name": "Bó hồng đỏ",
+    "price": 500000,
+    "image": "assets/flowers/HG052.jpg",
+    "type": "Bó hoa",
+    "size": "30-35cm",
+    "colors": [
+      "Đỏ"
+    ],
+    "flowers": [
+      "Hoa hồng"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
