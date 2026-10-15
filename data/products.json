@@ -1149,5 +1149,46 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG038",
+    "name": "Bó hoa thiết kế tone đỏ",
+    "price": 1300000,
+    "image": "assets/flowers/HG038.jpg",
+    "type": "Bó hoa",
+    "size": "50-55cm",
+    "colors": [
+      "Màu đỏ",
+      "Màu trắng"
+    ],
+    "flowers": [
+      "Hoa ly kép",
+      "Hoa tulip",
+      "Hoa lan",
+      "Lan renred",
+      "hồng môn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "20/10",
+      "8/3",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
