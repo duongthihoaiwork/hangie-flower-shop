@@ -2041,5 +2041,34 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG062",
+    "name": "Bó ly đa sắc",
+    "price": 1000000,
+    "image": "assets/flowers/HG062.jpg",
+    "type": "Bó hoa",
+    "size": "45-50cm",
+    "colors": [
+      "đa sắc"
+    ],
+    "flowers": [
+      "Hoa ly kép"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
