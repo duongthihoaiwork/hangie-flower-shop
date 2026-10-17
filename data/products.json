@@ -3199,5 +3199,43 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG092",
+    "name": "giỏ hoa cao cấp",
+    "price": 4500000,
+    "image": "assets/flowers/HG092.jpg",
+    "type": "Giỏ hoa",
+    "size": "60-70cm",
+    "colors": [
+      "trắng",
+      "Hồng"
+    ],
+    "flowers": [
+      "hồng trắng",
+      "Hồng chùm sophia"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
