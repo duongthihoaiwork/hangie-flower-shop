@@ -4091,5 +4091,43 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG117",
+    "name": "Bó hoa tone nâu ",
+    "price": 900000,
+    "image": "assets/flowers/HG117.jpg",
+    "type": "Bó hoa",
+    "size": "40-45cm",
+    "colors": [
+      "nâu"
+    ],
+    "flowers": [
+      "Hồng capuchino",
+      "Lam tinh",
+      "Ly kép"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
