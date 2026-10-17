@@ -2216,5 +2216,45 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG066",
+    "name": "Giỏ hoa chúc mừng tone hồng",
+    "price": 1200000,
+    "image": "assets/flowers/HG066.jpg",
+    "type": "Giỏ hoa",
+    "size": "45-50cm",
+    "colors": [
+      "Hồng"
+    ],
+    "flowers": [
+      "Cúc. mẫu đơn",
+      "Ly kép",
+      "Chuông",
+      "Sao xanh",
+      "và các loại khác"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
