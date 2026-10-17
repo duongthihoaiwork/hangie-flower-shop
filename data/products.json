@@ -3274,5 +3274,44 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG094",
+    "name": "kệ hoa mini tone xanh lá",
+    "price": 1400000,
+    "image": "assets/flowers/HG094.jpg",
+    "type": "Kệ hoa",
+    "size": "60-65cm",
+    "colors": [
+      "xanh lá"
+    ],
+    "flowers": [
+      "Hồng trắng",
+      "Wisky",
+      "Cẩm chướng",
+      "Loại khác"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Người thân",
+      "Gia đình"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
