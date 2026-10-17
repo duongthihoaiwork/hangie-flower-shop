@@ -3782,5 +3782,21 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG108",
+    "name": "hoa cầm tay cô dâu",
+    "price": 950,
+    "image": "assets/flowers/HG108.jpg",
+    "type": "Bó hoa",
+    "size": "cầm tay",
+    "colors": [
+      "đỏ"
+    ],
+    "flowers": [
+      "thảo đường"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
