@@ -4129,5 +4129,43 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG118",
+    "name": "Bó hoa tone hồng ",
+    "price": 650000,
+    "image": "assets/flowers/HG118.jpg",
+    "type": "Bó hoa",
+    "size": "35-40cm",
+    "colors": [
+      "Hồng"
+    ],
+    "flowers": [
+      "Ly kép",
+      "hồng",
+      "Đồng tiền"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
