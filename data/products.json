@@ -2751,5 +2751,44 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG080",
+    "name": "Giỏ hoa xanh lá",
+    "price": 1500000,
+    "image": "assets/flowers/HG080.jpg",
+    "type": "Giỏ hoa",
+    "size": "45-50cm",
+    "colors": [
+      "xanh lá"
+    ],
+    "flowers": [
+      "sen",
+      "wisky",
+      "đài sen",
+      "cẩm chướng xanh lá"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
