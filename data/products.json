@@ -3682,5 +3682,35 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG105",
+    "name": "Bó hoa rau củ",
+    "price": 400000,
+    "image": "assets/flowers/HG105.jpg",
+    "type": "Bó hoa",
+    "size": "35-37cm",
+    "colors": [
+      "đa sắc"
+    ],
+    "flowers": [
+      "hoa hỗn hợp"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Chúc mừng",
+      "8/3",
+      "20/10",
+      "Valentine"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
