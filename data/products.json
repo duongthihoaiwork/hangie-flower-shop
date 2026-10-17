@@ -3530,5 +3530,40 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG101",
+    "name": "Giỏ hoa hồng đỏ",
+    "price": 2500000,
+    "image": "assets/flowers/HG101.jpg",
+    "type": "Giỏ hoa",
+    "size": "100 bông",
+    "colors": [
+      "đỏ"
+    ],
+    "flowers": [
+      "hoa hồng đỏ"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
