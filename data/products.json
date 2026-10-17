@@ -2790,5 +2790,41 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG081",
+    "name": "Hoa tulip",
+    "price": 1200000,
+    "image": "assets/flowers/HG081.jpg",
+    "type": "Bó hoa",
+    "size": "10 bông",
+    "colors": [
+      "xanh lá"
+    ],
+    "flowers": [
+      "tulip"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "20/10",
+      "8/3",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
