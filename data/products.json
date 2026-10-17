@@ -2714,5 +2714,42 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG079",
+    "name": "Giỏ hoa tone xanh dương 2",
+    "price": 550000,
+    "image": "assets/flowers/HG079.jpg",
+    "type": "Giỏ hoa",
+    "size": "35-37cm",
+    "colors": [
+      "xanh dương"
+    ],
+    "flowers": [
+      "Ly kép xanh",
+      "Lan vũ nữ"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
