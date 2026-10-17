@@ -2674,5 +2674,45 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG078",
+    "name": "bó hoa tone tím cao cấp 3",
+    "price": 2300000,
+    "image": "assets/flowers/HG078.jpg",
+    "type": "Bó hoa",
+    "size": "50-53cm",
+    "colors": [
+      "tím",
+      "Hồng"
+    ],
+    "flowers": [
+      "hoa hồng tím",
+      "tulip",
+      "phi yến",
+      "các loại khác"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
