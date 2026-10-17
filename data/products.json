@@ -2518,5 +2518,43 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG074",
+    "name": "Giỏ hoa hồng ",
+    "price": 950000,
+    "image": "assets/flowers/HG074.jpg",
+    "type": "Giỏ hoa",
+    "size": "40-45cm",
+    "colors": [
+      "Hồng"
+    ],
+    "flowers": [
+      "Hoa hồng ",
+      "hoa cẩm chướng",
+      "Lá bạc"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
