@@ -3840,5 +3840,36 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG110",
+    "name": "Bó hoa rau củ 2",
+    "price": 550000,
+    "image": "assets/flowers/HG110.jpg",
+    "type": "Bó hoa",
+    "size": "40-45cm",
+    "colors": [
+      "đa sắc"
+    ],
+    "flowers": [
+      "mix nhiều loại"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
