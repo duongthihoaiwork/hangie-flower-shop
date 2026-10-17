@@ -4055,5 +4055,41 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG116",
+    "name": "Bó hoa hồng capuchino",
+    "price": 500000,
+    "image": "assets/flowers/HG116.jpg",
+    "type": "Bó hoa",
+    "size": "25 bông",
+    "colors": [
+      "nâu capuchino"
+    ],
+    "flowers": [
+      "Hoa hồng"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
