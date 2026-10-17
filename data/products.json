@@ -3643,5 +3643,44 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG104",
+    "name": "Giỏ hoa chúc mừng tone hồng cao cấp 2",
+    "price": 1400000,
+    "image": "assets/flowers/HG104.jpg",
+    "type": "Giỏ hoa",
+    "size": "40cm",
+    "colors": [
+      "hồng ",
+      "trắng"
+    ],
+    "flowers": [
+      "Ly kép",
+      "Cúc mẫu đơn",
+      "Hồng môn"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "8/3",
+      "Tặng mẹ",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
