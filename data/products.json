@@ -4497,5 +4497,80 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG128",
+    "name": "Bó hoa tone đỏ cao cấp 3",
+    "price": 950000,
+    "image": "assets/flowers/HG128.jpg",
+    "type": "Bó hoa",
+    "size": "45-50cm",
+    "colors": [
+      "Đỏ"
+    ],
+    "flowers": [
+      "hoa hồng đỏ",
+      "Hoa tulip",
+      "Lan mokara"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Chúc mừng",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG129",
+    "name": "bó hoa công chúa tone xanh lá",
+    "price": 2500000,
+    "image": "assets/flowers/HG129.jpg",
+    "type": "Bó hoa",
+    "size": "70-80cm",
+    "colors": [
+      "Xanh lá"
+    ],
+    "flowers": [
+      "Hồng ohara",
+      "Ly kép"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
