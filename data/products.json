@@ -2177,5 +2177,44 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG065",
+    "name": "Giỏ hoa chúc mừng tone đỏ",
+    "price": 600000,
+    "image": "assets/flowers/HG065.jpg",
+    "type": "Giỏ hoa",
+    "size": "33-40",
+    "colors": [
+      "Đỏ"
+    ],
+    "flowers": [
+      "Hoa đồng tiền",
+      "Hoa Ly",
+      "Lan đỏ"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
