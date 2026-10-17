@@ -4018,5 +4018,42 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG115",
+    "name": "Bó hoa ốc quế tone hồng",
+    "price": 700000,
+    "image": "assets/flowers/HG115.jpg",
+    "type": "Bó hoa",
+    "size": "30-35cm",
+    "colors": [
+      "hồng"
+    ],
+    "flowers": [
+      "tú cầu hồng",
+      "Ly kép"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
