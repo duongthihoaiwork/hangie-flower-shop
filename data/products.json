@@ -4352,5 +4352,39 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG124",
+    "name": "Giỏ hoa hồng đỏ lật cánh",
+    "price": 750000,
+    "image": "assets/flowers/HG124.jpg",
+    "type": "Giỏ hoa",
+    "size": "40-45cm",
+    "colors": [
+      "đỏ"
+    ],
+    "flowers": [
+      "hồng đỏ"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "20/10",
+      "8/3",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
