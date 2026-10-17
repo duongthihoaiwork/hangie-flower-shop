@@ -3385,5 +3385,41 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG097",
+    "name": "Giỏ hoa hồng tone đỏ",
+    "price": 1000000,
+    "image": "assets/flowers/HG097.jpg",
+    "type": "Giỏ hoa",
+    "size": "50-52cm",
+    "colors": [
+      "đỏ"
+    ],
+    "flowers": [
+      "hồng đỏ"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Bạn bè",
+      "Người yêu",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
