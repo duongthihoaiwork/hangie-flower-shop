@@ -4243,5 +4243,42 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG121",
+    "name": "Bó hồng chùm plume",
+    "price": 3000000,
+    "image": "assets/flowers/HG121.jpg",
+    "type": "Bó hoa",
+    "size": "70-75cm",
+    "colors": [
+      "hồng"
+    ],
+    "flowers": [
+      "Hồng chùm plume",
+      "hồng phụng"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
