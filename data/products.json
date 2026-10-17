@@ -3011,5 +3011,43 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG087",
+    "name": "Giỏ hoa chúc mừng tone vàng",
+    "price": 1500000,
+    "image": "assets/flowers/HG087.jpg",
+    "type": "Bó hoa",
+    "size": "50-55cm",
+    "colors": [
+      "vàng"
+    ],
+    "flowers": [
+      "pingpong vàng",
+      "đồng tiền ",
+      "hồng victor"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
