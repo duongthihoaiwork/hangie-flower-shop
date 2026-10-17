@@ -3908,5 +3908,43 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG112",
+    "name": "Bó hoa hồng đỏ cao cấp",
+    "price": 1000000,
+    "image": "assets/flowers/HG112.jpg",
+    "type": "Bó hoa",
+    "size": "40-45cm",
+    "colors": [
+      "đỏ"
+    ],
+    "flowers": [
+      "Hồng đỏ",
+      "Lan mokara",
+      "Ly kép"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Gia đình",
+      "Mẹ",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
