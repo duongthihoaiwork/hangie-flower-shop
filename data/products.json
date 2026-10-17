@@ -2408,5 +2408,41 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG071",
+    "name": "Bó hoa Ly kép tone xanh lá",
+    "price": 650000,
+    "image": "assets/flowers/HG071.jpg",
+    "type": "Bó hoa",
+    "size": "40-42cm",
+    "colors": [
+      "xanh lá"
+    ],
+    "flowers": [
+      "Ly kép xanh lá"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
