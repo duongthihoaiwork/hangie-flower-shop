@@ -2370,5 +2370,43 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG070",
+    "name": "Bó hoa tím pasteln cao cấp 1",
+    "price": 1300000,
+    "image": "assets/flowers/HG070.jpg",
+    "type": "Bó hoa",
+    "size": "40-45cm ",
+    "colors": [
+      "tím"
+    ],
+    "flowers": [
+      "Phi yến",
+      "Cúc mẫu đơn",
+      "tulip"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "Valentine",
+      "20/11",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
