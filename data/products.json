@@ -2634,5 +2634,45 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG077",
+    "name": "bó hoa tone tím cao cấp 2",
+    "price": 1850000,
+    "image": "assets/flowers/HG077.jpg",
+    "type": "Bó hoa",
+    "size": "40-42cm",
+    "colors": [
+      "hồng",
+      "xanh dương",
+      "tím"
+    ],
+    "flowers": [
+      "Tulip",
+      "Hoa hồng",
+      "Phi yến"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Chúc mừng",
+      "Tặng mẹ",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
