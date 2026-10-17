@@ -2138,5 +2138,44 @@
     "description": "Khi mua hoa, bạn sẽ được tặng kèm MIỄN PHÍ:\n💌 Thiệp viết tay – Gửi gắm những lời chúc ngọt ngào, chân thành.\n🛍️ Túi giấy xách hoa – Xinh xắn, tinh tế, tiện lợi khi mang tặng.",
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG064",
+    "name": "Bó hoa thiết kế tone đỏ 1",
+    "price": 650000,
+    "image": "assets/flowers/HG064.jpg",
+    "type": "Bó hoa",
+    "size": "40-45cm",
+    "colors": [
+      "Đỏ",
+      "trắng"
+    ],
+    "flowers": [
+      "cúc mẫu đơn",
+      "Hồng môn",
+      "Lan hồ điệp"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tốt nghiệp",
+      "Tỏ tình",
+      "Kỷ niệm",
+      "Tặng mẹ",
+      "Chúc mừng",
+      "8/3",
+      "20/10",
+      "20/11",
+      "Valentine",
+      "Khai trương"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè",
+      "Mẹ",
+      "Gia đình",
+      "Người thân"
+    ],
+    "available": true,
+    "featured": false
   }
 ]
