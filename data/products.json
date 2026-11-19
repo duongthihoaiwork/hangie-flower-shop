@@ -926,7 +926,7 @@
     "featured": false
   },
   {
-    "id": "HG031",
+    "id": "HG032",
     "name": "Bó hoa tone trắng ",
     "price": 650000,
     "image": "assets/flowers/HG032.jpg",
@@ -4589,12 +4589,696 @@
       "Hoa ly"
     ],
     "occasions": [
+      "Sinh nhật",
+      "Chúc mừng"
+    ],
+    "recipient": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hồng môn xanh ánh tím phối cùng hoa ly và lá phụ sắc trầm. Giấy gói trắng làm nổi bật bảng màu xanh đêm.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG131",
+    "name": "Bó hoa mix hồng kem nơ trắng",
+    "price": 650000,
+    "image": "assets/flowers/HG131.jpg",
+    "type": "Bó hoa",
+    "size": "45-50cm",
+    "colors": [
+      "Hồng",
+      "Trắng"
+    ],
+    "flowers": [
+      "Hoa hồng",
+      "Hoa cúc"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Chúc mừng"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè"
+    ],
+    "description": "Hoa hồng và cúc nhỏ đan xen trên nền hồng kem, điểm nơ trắng bản lớn cho dáng bó mềm mại.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG132",
+    "name": "Bó hồng môn xanh điểm hồng vàng",
+    "price": 590000,
+    "image": "assets/flowers/HG132.jpg",
+    "type": "Bó hoa",
+    "size": "40-45cm",
+    "colors": [
+      "Xanh dương",
+      "Vàng"
+    ],
+    "flowers": [
+      "Hồng môn",
+      "Hoa hồng"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Chúc mừng"
+    ],
+    "recipient": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Những bông hồng vàng làm sáng nền hồng môn xanh đậm. Giấy gói tối màu giữ tổng thể gọn và nổi bật.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG133",
+    "name": "Bó hồng xanh biển phối hoa trắng",
+    "price": 490000,
+    "image": "assets/flowers/HG133.jpg",
+    "type": "Bó hoa",
+    "size": "35-40cm",
+    "colors": [
+      "Xanh dương",
+      "Trắng"
+    ],
+    "flowers": [
+      "Hoa hồng",
+      "Cẩm chướng"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Chúc mừng"
+    ],
+    "recipient": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hoa hồng xanh biển xen những cụm hoa trắng, gói giấy sáng và thắt ruy băng xanh đồng màu.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG134",
+    "name": "Bó hoa mix sắc cam trên nền đen",
+    "price": 650000,
+    "image": "assets/flowers/HG134.jpg",
+    "type": "Bó hoa",
+    "size": "45-50cm",
+    "colors": [
+      "Cam",
+      "Vàng",
+      "Đen"
+    ],
+    "flowers": [
+      "Hoa hồng",
+      "Loại khác"
+    ],
+    "occasions": [
+      "Chúc mừng",
       "Sinh nhật"
     ],
     "recipient": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hoa hồng sắc cam và vàng nổi bật giữa hoa lá tông tối, gói giấy đen tạo dáng bó mạnh mẽ.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG135",
+    "name": "Bó hoa tím trắng phối nón lá",
+    "price": 650000,
+    "image": "assets/flowers/HG135.jpg",
+    "type": "Bó hoa",
+    "size": "45-50cm",
+    "colors": [
+      "Tím",
+      "Trắng"
+    ],
+    "flowers": [
+      "Hoa cúc",
+      "Loại khác"
+    ],
+    "occasions": [
+      "20/11",
+      "Sinh nhật"
+    ],
+    "recipient": [
+      "Người thân",
+      "Gia đình"
+    ],
+    "description": "Các cụm hoa tím và trắng phối cùng lá mềm, điểm nón lá nhỏ tạo nét duyên Việt.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG136",
+    "name": "Bó hoa xanh ngọc điểm đồng tiền trắng",
+    "price": 590000,
+    "image": "assets/flowers/HG136.jpg",
+    "type": "Bó hoa",
+    "size": "40-45cm",
+    "colors": [
+      "Xanh",
+      "Trắng"
+    ],
+    "flowers": [
+      "Đồng tiền",
+      "Loại khác"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Chúc mừng"
+    ],
+    "recipient": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Cụm hoa xanh ngọc phối đồng tiền trắng và lá dài trên nền giấy gói đen.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG137",
+    "name": "Bó hoa xanh lá phối hướng dương",
+    "price": 650000,
+    "image": "assets/flowers/HG137.jpg",
+    "type": "Bó hoa",
+    "size": "45-50cm",
+    "colors": [
+      "Xanh",
+      "Vàng"
+    ],
+    "flowers": [
+      "Hướng dương",
+      "Hoa ly"
+    ],
+    "occasions": [
+      "Chúc mừng",
+      "Tốt nghiệp"
+    ],
+    "recipient": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hướng dương mặt nâu và hoa ly xanh tạo dáng vươn tự nhiên trên nền giấy đen.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG138",
+    "name": "Bó hoa hồng pastel gói ren",
+    "price": 590000,
+    "image": "assets/flowers/HG138.jpg",
+    "type": "Bó hoa",
+    "size": "40-45cm",
+    "colors": [
+      "Hồng",
+      "Trắng"
+    ],
+    "flowers": [
+      "Hoa hồng",
+      "Loại khác"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Kỷ niệm"
+    ],
+    "recipient": [
+      "Người yêu",
       "Bạn bè"
     ],
-    "description": "Hồng môn xanh ánh tím phối cùng hoa ly và lá phụ sắc trầm. Giấy gói trắng làm nổi bật bảng màu xanh đêm.",
+    "description": "Bó hoa hồng pastel điểm hoa nhỏ, gói ren sáng và buộc nơ hồng dài.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG139",
+    "name": "Bó ly trắng phối hồng xanh đêm",
+    "price": 690000,
+    "image": "assets/flowers/HG139.jpg",
+    "type": "Bó hoa",
+    "size": "45-50cm",
+    "colors": [
+      "Trắng",
+      "Xanh"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Hoa hồng"
+    ],
+    "occasions": [
+      "Kỷ niệm",
+      "Valentine"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Người thân"
+    ],
+    "description": "Hoa ly trắng ở giữa, viền hoa hồng xanh và giấy gói sẫm tạo tương phản.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG140",
+    "name": "Bó hoa hồng tím gói kem",
+    "price": 650000,
+    "image": "assets/flowers/HG140.jpg",
+    "type": "Bó hoa",
+    "size": "45-50cm",
+    "colors": [
+      "Hồng",
+      "Tím"
+    ],
+    "flowers": [
+      "Hoa hồng",
+      "Cẩm tú cầu"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tặng mẹ"
+    ],
+    "recipient": [
+      "Mẹ",
+      "Gia đình"
+    ],
+    "description": "Các cụm hoa hồng tím và cẩm tú cầu phối giấy kem, buộc nơ hồng nhẹ nhàng.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG141",
+    "name": "Bó hoa tròn đa sắc",
+    "price": 850000,
+    "image": "assets/flowers/HG141.jpg",
+    "type": "Bó hoa",
+    "size": "50-55cm",
+    "colors": [
+      "Hồng",
+      "Tím",
+      "Vàng"
+    ],
+    "flowers": [
+      "Hoa hồng",
+      "Đồng tiền"
+    ],
+    "occasions": [
+      "Chúc mừng",
+      "Sinh nhật"
+    ],
+    "recipient": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Bó tròn đầy với sắc hồng, tím và vàng, phối hoa nhỏ để làm mềm các cụm màu.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG142",
+    "name": "Bó ly hồng gói đen",
+    "price": 690000,
+    "image": "assets/flowers/HG142.jpg",
+    "type": "Bó hoa",
+    "size": "45-50cm",
+    "colors": [
+      "Hồng",
+      "Đen"
+    ],
+    "flowers": [
+      "Hoa ly",
+      "Loại khác"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Kỷ niệm"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè"
+    ],
+    "description": "Hoa ly hồng phối nhánh hoa phụ vươn cao trên lớp giấy đen.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG143",
+    "name": "Bó hoa mix vàng hồng gói kem",
+    "price": 590000,
+    "image": "assets/flowers/HG143.jpg",
+    "type": "Bó hoa",
+    "size": "40-45cm",
+    "colors": [
+      "Vàng",
+      "Hồng"
+    ],
+    "flowers": [
+      "Hoa hồng",
+      "Hoa cúc"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tặng mẹ"
+    ],
+    "recipient": [
+      "Mẹ",
+      "Gia đình"
+    ],
+    "description": "Hoa hồng và hoa nhỏ xen tông vàng hồng, gói giấy kem nhẹ nhàng.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG144",
+    "name": "Giỏ hoa chúc mừng vàng xanh",
+    "price": 790000,
+    "image": "assets/flowers/HG144.jpg",
+    "type": "Giỏ hoa",
+    "size": "45-55cm",
+    "colors": [
+      "Vàng",
+      "Xanh",
+      "Trắng"
+    ],
+    "flowers": [
+      "Hoa hồng",
+      "Hoa cúc"
+    ],
+    "occasions": [
+      "Khai trương",
+      "Chúc mừng"
+    ],
+    "recipient": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Giỏ hoa phối vàng, xanh lá và trắng, cắm tỏa rộng cho dịp khai trương.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG145",
+    "name": "Giỏ hoa khai trương cam vàng",
+    "price": 950000,
+    "image": "assets/flowers/HG145.jpg",
+    "type": "Giỏ hoa",
+    "size": "55-65cm",
+    "colors": [
+      "Cam",
+      "Vàng"
+    ],
+    "flowers": [
+      "Hoa hồng",
+      "Loại khác"
+    ],
+    "occasions": [
+      "Khai trương",
+      "Chúc mừng"
+    ],
+    "recipient": [
+      "Người thân",
+      "Bạn bè"
+    ],
+    "description": "Giỏ đan đầy hoa cam vàng, xen cành nhỏ cho dáng cắm thoáng.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG146",
+    "name": "Giỏ hoa vàng kem phối hồng đào",
+    "price": 950000,
+    "image": "assets/flowers/HG146.jpg",
+    "type": "Giỏ hoa",
+    "size": "55-65cm",
+    "colors": [
+      "Vàng",
+      "Hồng",
+      "Trắng"
+    ],
+    "flowers": [
+      "Hoa hồng",
+      "Loại khác"
+    ],
+    "occasions": [
+      "Khai trương",
+      "Chúc mừng"
+    ],
+    "recipient": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hoa hồng hồng đào và kem xen hoa vàng, điểm ruy băng sáng trên giỏ đan.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG147",
+    "name": "Bó hoa hồng tròn viền ren",
+    "price": 690000,
+    "image": "assets/flowers/HG147.jpg",
+    "type": "Bó hoa",
+    "size": "45-50cm",
+    "colors": [
+      "Hồng",
+      "Trắng"
+    ],
+    "flowers": [
+      "Hoa hồng",
+      "Loại khác"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Kỷ niệm"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè"
+    ],
+    "description": "Bó tròn nhiều lớp hoa hồng, xen nhánh xanh nhỏ và bọc viền ren sáng.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG148",
+    "name": "Bó hoa hồng kem gói đỏ đen",
+    "price": 650000,
+    "image": "assets/flowers/HG148.jpg",
+    "type": "Bó hoa",
+    "size": "40-45cm",
+    "colors": [
+      "Hồng",
+      "Trắng",
+      "Đỏ"
+    ],
+    "flowers": [
+      "Hoa hồng",
+      "Cẩm chướng"
+    ],
+    "occasions": [
+      "Kỷ niệm",
+      "Valentine"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè"
+    ],
+    "description": "Hoa hồng kem và hồng nhạt nổi bật trên giấy gói đỏ đen, điểm nơ hồng mềm.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG149",
+    "name": "Bó hồng tròn điểm hoa xanh",
+    "price": 790000,
+    "image": "assets/flowers/HG149.jpg",
+    "type": "Bó hoa",
+    "size": "45-55cm",
+    "colors": [
+      "Hồng",
+      "Xanh"
+    ],
+    "flowers": [
+      "Hoa hồng",
+      "Loại khác"
+    ],
+    "occasions": [
+      "Valentine",
+      "Tỏ tình"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè"
+    ],
+    "description": "Hoa hồng phủ đều mặt bó tròn, xen hoa nhỏ xanh và viền giấy sắc ấm.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG150",
+    "name": "Bó cúc họa mi mix hoa đỏ",
+    "price": 450000,
+    "image": "assets/flowers/HG150.jpg",
+    "type": "Bó hoa",
+    "size": "35-40cm",
+    "colors": [
+      "Trắng",
+      "Đỏ",
+      "Vàng"
+    ],
+    "flowers": [
+      "Hoa cúc",
+      "Loại khác"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Chúc mừng"
+    ],
+    "recipient": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Cúc nhỏ trắng vàng xen hoa đỏ, gói đen và thắt nơ đỏ nổi bật.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG151",
+    "name": "Bó đồng tiền hồng phối hoa trắng",
+    "price": 550000,
+    "image": "assets/flowers/HG151.jpg",
+    "type": "Bó hoa",
+    "size": "40-45cm",
+    "colors": [
+      "Hồng",
+      "Trắng"
+    ],
+    "flowers": [
+      "Đồng tiền",
+      "Hoa hồng"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Chúc mừng"
+    ],
+    "recipient": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Đồng tiền hồng phối hoa trắng và xanh non, gói giấy hồng với dáng bó thoáng.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG152",
+    "name": "Bó hồng pastel phối cúc trắng",
+    "price": 690000,
+    "image": "assets/flowers/HG152.jpg",
+    "type": "Bó hoa",
+    "size": "45-50cm",
+    "colors": [
+      "Hồng",
+      "Trắng"
+    ],
+    "flowers": [
+      "Hoa hồng",
+      "Hoa cúc"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Kỷ niệm"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè"
+    ],
+    "description": "Hoa hồng pastel đan cùng cúc trắng nhụy vàng, tạo mặt bó tròn đầy.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG153",
+    "name": "Giỏ hoa khai trương cam kem",
+    "price": 950000,
+    "image": "assets/flowers/HG153.jpg",
+    "type": "Giỏ hoa",
+    "size": "50-60cm",
+    "colors": [
+      "Cam",
+      "Vàng",
+      "Trắng"
+    ],
+    "flowers": [
+      "Hoa hồng",
+      "Hoa cúc"
+    ],
+    "occasions": [
+      "Khai trương",
+      "Chúc mừng"
+    ],
+    "recipient": [
+      "Bạn bè",
+      "Người thân"
+    ],
+    "description": "Hoa hồng cam phối hoa vàng kem và nhánh sáng cắm cao ở hai bên giỏ.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG154",
+    "name": "Bó hồng cam đào điểm hoa xanh",
+    "price": 750000,
+    "image": "assets/flowers/HG154.jpg",
+    "type": "Bó hoa",
+    "size": "45-50cm",
+    "colors": [
+      "Cam",
+      "Xanh"
+    ],
+    "flowers": [
+      "Hoa hồng",
+      "Loại khác"
+    ],
+    "occasions": [
+      "Kỷ niệm",
+      "Sinh nhật"
+    ],
+    "recipient": [
+      "Người yêu",
+      "Bạn bè"
+    ],
+    "description": "Hoa hồng cam đào xếp tròn, xen cụm hoa xanh nhỏ và buộc nơ kem.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "HG155",
+    "name": "Bó thược dược cam hồng phối hồng",
+    "price": 590000,
+    "image": "assets/flowers/HG155.jpg",
+    "type": "Bó hoa",
+    "size": "40-45cm",
+    "colors": [
+      "Cam",
+      "Hồng"
+    ],
+    "flowers": [
+      "Thược dược",
+      "Hoa hồng"
+    ],
+    "occasions": [
+      "Sinh nhật",
+      "Tặng mẹ"
+    ],
+    "recipient": [
+      "Mẹ",
+      "Gia đình"
+    ],
+    "description": "Thược dược cam hồng phối hoa hồng và lá xanh, gói lớp trong để lộ dáng hoa.",
     "available": true,
     "featured": false
   }
