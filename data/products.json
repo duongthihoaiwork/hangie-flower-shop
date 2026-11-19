@@ -4572,5 +4572,30 @@
     ],
     "available": true,
     "featured": false
+  },
+  {
+    "id": "HG130",
+    "name": "Bó hồng môn xanh ánh tím",
+    "price": 690000,
+    "image": "assets/flowers/HG130.jpg",
+    "type": "Bó hoa",
+    "size": "45-50cm",
+    "colors": [
+      "Xanh",
+      "Tím"
+    ],
+    "flowers": [
+      "Hồng môn",
+      "Hoa ly"
+    ],
+    "occasions": [
+      "Sinh nhật"
+    ],
+    "recipient": [
+      "Bạn bè"
+    ],
+    "description": "Hồng môn xanh ánh tím phối cùng hoa ly và lá phụ sắc trầm. Giấy gói trắng làm nổi bật bảng màu xanh đêm.",
+    "available": true,
+    "featured": false
   }
 ]
